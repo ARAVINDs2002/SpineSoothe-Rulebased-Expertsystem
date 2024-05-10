@@ -1,4 +1,4 @@
-Requirements:
+Requirements :
 Python:
 Install Python on your computer. Download it from python.org.
 
