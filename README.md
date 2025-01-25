@@ -1,9 +1,9 @@
 # Please remember that while testing or using any app online use meaningfull data and dont be a fool like m...ahem..certain people i know.
 __________________________________________________________________________________________________________________________
-# Spine Soothe - A Rule Based Expert Syatem-Demo Documentation
+# Spine Soothe - A Demo Rule Based Expert System Documentation
 --------------------------------------------------------------------------------------------------------------------------
 # Description:
-This Python program serves as an expert system for providing personalized recommendations for back pain relief exercises based on the location of the pain. It utilizes a rule-based approach to match the user's input location with predefined exercise rules stored in the knowledge base.
+This Python program serves as a Demo to the working of an expert system for providing personalized recommendations for back pain relief exercises based on the location of the pain. It utilizes a rule-based approach to match the user's input location with predefined exercise rules stored in the knowledge base.
 --------------------------------------------------------------------------------------------------------------------------
 # Features:
 
